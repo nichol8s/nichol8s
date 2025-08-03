@@ -76,4 +76,10 @@ _This is where I’m **most active** — memes, tech thoughts & random chaos._
 
 ---
 
-🌟 _“Sleeping by day, coding by night.”_
+### 🚀 Projects  
+
+- 🩸 [Blood Bank Management System](https://github.com/nichol8s/Blood-Bank) – A web app to manage blood donations, requests, and inventory efficiently.  
+- 🌱 [EcoDrive](https://github.com/nichol8s/ECODRIVE) – A sustainability-focused project promoting eco-friendly transportation and tracking carbon footprint.
+
+---
+
